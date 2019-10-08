@@ -1,0 +1,5 @@
+code --install-extension AlDuncanson.react-hooks-snippets
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension deerawan.vscode-dash
+code --install-extension eamodio.gitlens
+code --install-extension esbenp.prettier-vscode
